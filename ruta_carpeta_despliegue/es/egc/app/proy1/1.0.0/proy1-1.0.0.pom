@@ -4,7 +4,7 @@
   <groupId>es.egc.app</groupId>
   <artifactId>proy1</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>proy1</name>
   <url>http://maven.apache.org</url>
   <build>
